@@ -43,7 +43,7 @@ Test Teardown   Close Browser
 ${BROWSER}    Chrome
  
 *** Test Cases ***
-Ensure Robot Framework homepage is first result in Google Search for Robot Framework
+Google Robot Test Case
     Open Browser To Page  https://www.google.com
  
 *** Keywords ***
